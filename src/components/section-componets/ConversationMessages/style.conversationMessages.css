@@ -1,0 +1,62 @@
+div.chat-conversation-left-message-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 4px;
+  margin-top: 8em;
+  margin-left: 10%;
+  position: absolute;
+}
+
+div.chat-conversation-left-message-wrapper > p {
+  background-color: white;
+  border-radius: 5px;
+  width: auto;
+  padding: 8px;
+}
+
+div.chat-conversation-left-message-wrapper > p > span {
+  position: relative;
+  top: 8px;
+  left: 10px;
+  padding-right: 10px;
+  margin-right: auto;
+  font-size: 13px;
+  color: #969696;
+}
+
+div.chat-conversation-right-message-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 4px;
+  position: absolute;
+  margin-top: 18em;
+  margin-left: 66%;
+}
+
+div.chat-conversation-right-message-wrapper > p {
+  background-color: #DCF7C5;
+  border-radius: 5px;
+  width: auto;
+  padding: 8px;
+}
+
+div.chat-conversation-right-message-wrapper > p > span {
+  position: relative;
+  top: 8px;
+  left: 10px;
+  padding-right: 10px;
+  margin-right: auto;
+  font-size: 13px;
+  color: #969696;
+}
+/*# sourceMappingURL=style.conversationMessages.css.map */
