@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/devevivek/static/css/main.99679ce2.css",
-    "main.js": "/devevivek/static/js/main.ec912cfd.js",
-    "static/js/787.2b7c45ff.chunk.js": "/devevivek/static/js/787.2b7c45ff.chunk.js",
-    "static/media/bgImage.png": "/devevivek/static/media/bgImage.9852c832dcc04cec8752.png",
-    "static/media/profilePicture.png": "/devevivek/static/media/profilePicture.042692f28111a6dead5e.png",
-    "index.html": "/devevivek/index.html",
-    "main.99679ce2.css.map": "/devevivek/static/css/main.99679ce2.css.map",
-    "main.ec912cfd.js.map": "/devevivek/static/js/main.ec912cfd.js.map",
-    "787.2b7c45ff.chunk.js.map": "/devevivek/static/js/787.2b7c45ff.chunk.js.map"
+    "main.css": "https://dsomething.cloudfront.net/static/css/main.4f362dcd.css",
+    "main.js": "https://dsomething.cloudfront.net/static/js/main.8a923e4f.js",
+    "static/js/787.2b7c45ff.chunk.js": "https://dsomething.cloudfront.net/static/js/787.2b7c45ff.chunk.js",
+    "static/media/bgImage.png": "https://dsomething.cloudfront.net/static/media/bgImage.9852c832dcc04cec8752.png",
+    "static/media/profilePicture.png": "https://dsomething.cloudfront.net/static/media/profilePicture.042692f28111a6dead5e.png",
+    "index.html": "https://dsomething.cloudfront.net/index.html",
+    "main.4f362dcd.css.map": "https://dsomething.cloudfront.net/static/css/main.4f362dcd.css.map",
+    "main.8a923e4f.js.map": "https://dsomething.cloudfront.net/static/js/main.8a923e4f.js.map",
+    "787.2b7c45ff.chunk.js.map": "https://dsomething.cloudfront.net/static/js/787.2b7c45ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99679ce2.css",
-    "static/js/main.ec912cfd.js"
+    "static/css/main.4f362dcd.css",
+    "static/js/main.8a923e4f.js"
   ]
 }
